@@ -1,0 +1,19 @@
+p{
+    font-size: 30px;
+    font-family: lucida handwriting;
+    font-weight: 100;
+    color: black;
+    text-align: left;
+}
+body{
+    background-color: mediumorchid;
+}
+main{
+    background-color: rgb(245, 184, 245);
+}
+footer{
+    background-color: rgb(159, 219, 235);
+}
+header{
+    background-color: rgb(159, 219, 235);
+}

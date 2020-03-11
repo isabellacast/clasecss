@@ -1,5 +1,5 @@
 p{
-    font-size: 30px;
+    font-size: 50px;
     font-family: lucida handwriting;
     font-weight: 100;
     color: black;
@@ -16,4 +16,8 @@ footer{
 }
 header{
     background-color: rgb(159, 219, 235);
+}
+.parrafo1{
+font-size: 30px;
+
 }
